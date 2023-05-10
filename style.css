@@ -87,14 +87,14 @@ main {
 #hero h1 {
     color: var(--primary);
     font-weight: 800;
-    font-size: 50px;
+    font-size: 35px;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 #hero p {
     color: var(--text);
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
 }
 
 .hero-image {
@@ -109,7 +109,7 @@ main {
 .button {
     padding: 0.5rem 1.5rem;
     border-radius: 15px;
-    font-size: 20px;
+    font-size: 16px;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 }
 
@@ -155,6 +155,6 @@ main {
 
 #about p {
     color: var(--text);
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
 }
